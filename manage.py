@@ -1,5 +1,6 @@
 
 #!py
+# Author: Fawaaz Kamali Siddiqui
 
 import sys, os
 import pyperclip3 as pyperclip
